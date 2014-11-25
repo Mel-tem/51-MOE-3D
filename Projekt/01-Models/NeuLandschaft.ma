@@ -1,7 +1,7 @@
 //Maya ASCII 2015 scene
 //Name: NeuLandschaft.ma
-//Last modified: Wed, Nov 19, 2014 08:02:36 PM
-//Codeset: 1252
+//Last modified: Tue, Nov 25, 2014 12:00:26 AM
+//Codeset: UTF-8
 file -rdi 1 -ns "BaumMitAsten" -dr 1 -rfn "BaumMitAstenRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Sat, Nov 08, 2014 05:22:01 PM|ICON|undef|INFO|undef|OBJN|656|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma";
 file -rdi 1 -ns "BaumMitAsten1" -dr 1 -rfn "BaumMitAstenRN1" -op "v=0;" "/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma";
@@ -17,7 +17,6 @@ file -rdi 1 -ns "BaumMitAsten10" -dr 1 -rfn "BaumMitAstenRN10" -op "v=0;" "/User
 file -rdi 1 -ns "BaumMitAsten11" -dr 1 -rfn "BaumMitAstenRN11" -op "v=0;" "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma";
 file -rdi 1 -ns "topf" -rfn "topfRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Tue, Oct 28, 2014 04:50:34 PM|ICON|undef|INFO|undef|OBJN|27|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/topf.mb";
-file -rdi 1 -ns "Affe" -dr 1 -rfn "AffeRN" -op "v=0;" "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Affe.ma";
 file -rdi 1 -ns "AffeS" -dr 1 -rfn "AffeSRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Mon, Nov 17, 2014 09:25:25 PM|ICON|undef|INFO|undef|OBJN|60|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeS.mb";
 file -rdi 1 -ns "Plane" -dr 1 -rfn "PlaneRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Thu, Nov 13, 2014 12:27:29 PM|ICON|undef|INFO|undef|OBJN|33|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
@@ -26,7 +25,7 @@ file -rdi 1 -ns "AffeLast" -rfn "AffeLastRN" -op "VERS|2015|UVER|undef|MADE|unde
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeLast.mb";
 file -rdi 1 -ns "Plane" -rfn "PlaneRN1" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Tue, Nov 18, 2014 11:06:04 AM|ICON|undef|INFO|undef|OBJN|24|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb";
-file -rdi 1 -ns "BaumMitAsten12" -rfn "BaumMitAsten2RN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Wed, Nov 19, 2014 04:31:14 PM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
+file -rdi 1 -ns "BaumMitAsten12" -rfn "BaumMitAsten2RN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Mon, Nov 24, 2014 10:57:22 PM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb";
 file -rdi 1 -ns "BaumMitAsten13" -rfn "BaumMitAsten2RN1" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Wed, Nov 19, 2014 12:42:11 AM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb";
@@ -63,7 +62,6 @@ file -r -ns "BaumMitAsten10" -dr 1 -rfn "BaumMitAstenRN10" -op "v=0;" "/Users/me
 file -r -ns "BaumMitAsten11" -dr 1 -rfn "BaumMitAstenRN11" -op "v=0;" "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma";
 file -r -ns "topf" -dr 1 -rfn "topfRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Tue, Oct 28, 2014 04:50:34 PM|ICON|undef|INFO|undef|OBJN|27|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/topf.mb";
-file -r -ns "Affe" -dr 1 -rfn "AffeRN" -op "v=0;" "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Affe.ma";
 file -r -ns "AffeS" -dr 1 -rfn "AffeSRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Mon, Nov 17, 2014 09:25:25 PM|ICON|undef|INFO|undef|OBJN|60|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeS.mb";
 file -r -ns "Plane" -dr 1 -rfn "PlaneRN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Thu, Nov 13, 2014 12:27:29 PM|ICON|undef|INFO|undef|OBJN|33|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
@@ -72,7 +70,7 @@ file -r -ns "AffeLast" -dr 1 -rfn "AffeLastRN" -op "VERS|2015|UVER|undef|MADE|un
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeLast.mb";
 file -r -ns "Plane" -dr 1 -rfn "PlaneRN1" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Tue, Nov 18, 2014 11:06:04 AM|ICON|undef|INFO|undef|OBJN|24|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb";
-file -r -ns "BaumMitAsten12" -dr 1 -rfn "BaumMitAsten2RN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Wed, Nov 19, 2014 04:31:14 PM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
+file -r -ns "BaumMitAsten12" -dr 1 -rfn "BaumMitAsten2RN" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Mon, Nov 24, 2014 10:57:22 PM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb";
 file -r -ns "BaumMitAsten13" -dr 1 -rfn "BaumMitAsten2RN1" -op "VERS|2015|UVER|undef|MADE|undef|CHNG|Wed, Nov 19, 2014 12:42:11 AM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|cm|TUNI|film|AUNI|deg|"
 		 "U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb";
@@ -98,26 +96,25 @@ requires maya "2015";
 requires -nodeType "mentalrayFramebuffer" -nodeType "mentalrayOptions" -nodeType "mentalrayGlobals"
 		 -nodeType "mentalrayItemsList" -nodeType "mentalrayIblShape" -nodeType "mia_physicalsun"
 		 -nodeType "mia_physicalsky" -nodeType "mia_exposure_simple" -dataType "byteArray"
-		 "Mayatomr" "2015.0 - 3.12.1.18 ";
+		 "Mayatomr" "2015.0 - 3.12.1.16 ";
 currentUnit -l centimeter -a degree -t film;
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2015";
 fileInfo "version" "2015";
-fileInfo "cutIdentifier" "201410051530-933320";
-fileInfo "osv" "Microsoft Windows 8 Enterprise Edition, 64-bit  (Build 9200)\n";
+fileInfo "cutIdentifier" "201405190330-916664";
+fileInfo "osv" "Mac OS X 10.9.5";
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 19.464403975109207 12.56051793181933 -73.977578846249202 ;
+	setAttr ".t" -type "double3" 6.4743807692715674 7.0724648766946645 -56.48649776155505 ;
 	setAttr ".r" -type "double3" -14.138352725861694 503.39999999987026 0 ;
-	setAttr ".rp" -type "double3" 7.1054273576010019e-015 1.7763568394002505e-015 0 ;
-	setAttr ".rpt" -type "double3" -8.1278587353499203e-015 -4.6330863183520786e-016 
-		-7.1325367182674559e-015 ;
+	setAttr ".rp" -type "double3" 7.1054273576010019e-15 1.7763568394002505e-15 0 ;
+	setAttr ".rpt" -type "double3" -8.1278587353499203e-15 -4.6330863183520786e-16 -7.1325367182674559e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".rnd" no;
 	setAttr ".fl" 34.999999999999986;
-	setAttr ".coi" 41.89779513873264;
+	setAttr ".coi" 19.430099512892312;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -193,10 +190,10 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[12]" -type "float3" -0.0074732304 3.5787263 0 ;
 	setAttr ".pt[13]" -type "float3" 0 1.8547699 0 ;
 	setAttr ".pt[14]" -type "float3" 0 0.81810093 0 ;
-	setAttr ".pt[19]" -type "float3" -5.9604645e-008 0 -4.7683716e-007 ;
-	setAttr ".pt[20]" -type "float3" -7.4505806e-009 0 -4.7683716e-007 ;
-	setAttr ".pt[21]" -type "float3" 1.4901161e-008 0 -4.7683716e-007 ;
-	setAttr ".pt[22]" -type "float3" -5.9604645e-008 0 -4.7683716e-007 ;
+	setAttr ".pt[19]" -type "float3" -5.9604645e-08 0 -4.7683716e-07 ;
+	setAttr ".pt[20]" -type "float3" -7.4505806e-09 0 -4.7683716e-07 ;
+	setAttr ".pt[21]" -type "float3" 1.4901161e-08 0 -4.7683716e-07 ;
+	setAttr ".pt[22]" -type "float3" -5.9604645e-08 0 -4.7683716e-07 ;
 	setAttr ".pt[39]" -type "float3" 0 10.586489 0 ;
 	setAttr ".pt[40]" -type "float3" 0 10.586489 0 ;
 	setAttr ".pt[41]" -type "float3" 0.18265431 10.622787 -0.6263904 ;
@@ -211,10 +208,10 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[50]" -type "float3" -0.0074732304 4.8184052 0 ;
 	setAttr ".pt[51]" -type "float3" -0.0074732304 1.2366465 0 ;
 	setAttr ".pt[52]" -type "float3" 0 0.60027999 0 ;
-	setAttr ".pt[58]" -type "float3" -5.9604645e-008 0 4.7683716e-007 ;
-	setAttr ".pt[59]" -type "float3" -7.4505806e-009 0 4.7683716e-007 ;
-	setAttr ".pt[60]" -type "float3" 1.4901161e-008 0 4.7683716e-007 ;
-	setAttr ".pt[61]" -type "float3" -5.9604645e-008 0 4.7683716e-007 ;
+	setAttr ".pt[58]" -type "float3" -5.9604645e-08 0 4.7683716e-07 ;
+	setAttr ".pt[59]" -type "float3" -7.4505806e-09 0 4.7683716e-07 ;
+	setAttr ".pt[60]" -type "float3" 1.4901161e-08 0 4.7683716e-07 ;
+	setAttr ".pt[61]" -type "float3" -5.9604645e-08 0 4.7683716e-07 ;
 	setAttr ".pt[64]" -type "float3" 0 0.44486809 0 ;
 	setAttr ".pt[65]" -type "float3" 0 -0.47001272 0 ;
 	setAttr ".pt[66]" -type "float3" 0 -0.91488081 0 ;
@@ -231,10 +228,10 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[88]" -type "float3" -0.0074732304 5.9308372 0 ;
 	setAttr ".pt[89]" -type "float3" -0.0074732304 4.8184052 0 ;
 	setAttr ".pt[90]" -type "float3" -0.0074732304 0.68349671 0 ;
-	setAttr ".pt[97]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[98]" -type "float3" -7.4505806e-009 -0.26593569 0 ;
-	setAttr ".pt[99]" -type "float3" 1.4901161e-008 -0.26593569 0 ;
-	setAttr ".pt[100]" -type "float3" -5.9604645e-008 -0.26593569 0 ;
+	setAttr ".pt[97]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[98]" -type "float3" -7.4505806e-09 -0.26593569 0 ;
+	setAttr ".pt[99]" -type "float3" 1.4901161e-08 -0.26593569 0 ;
+	setAttr ".pt[100]" -type "float3" -5.9604645e-08 -0.26593569 0 ;
 	setAttr ".pt[101]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[102]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[103]" -type "float3" 0 -0.47001272 0 ;
@@ -248,7 +245,7 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[119]" -type "float3" 0.18265431 10.001246 -0.6263904 ;
 	setAttr ".pt[120]" -type "float3" 0.18265431 9.4824438 -0.6263904 ;
 	setAttr ".pt[121]" -type "float3" 0.18265431 9.7232809 -0.6263904 ;
-	setAttr ".pt[122]" -type "float3" -0.0074732304 8.6163177 -1.7881393e-007 ;
+	setAttr ".pt[122]" -type "float3" -0.0074732304 8.6163177 -1.7881393e-07 ;
 	setAttr ".pt[123]" -type "float3" -0.0074732304 8.2383223 0 ;
 	setAttr ".pt[124]" -type "float3" -0.0074732304 7.6542277 0 ;
 	setAttr ".pt[125]" -type "float3" -0.0074732304 7.1115985 0 ;
@@ -256,10 +253,10 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[127]" -type "float3" -0.0074732304 5.9308372 0 ;
 	setAttr ".pt[128]" -type "float3" -0.0074732304 4.8184052 0 ;
 	setAttr ".pt[129]" -type "float3" -0.0074732304 1.915225 0 ;
-	setAttr ".pt[136]" -type "float3" -5.9604645e-008 0 -9.5367432e-007 ;
-	setAttr ".pt[137]" -type "float3" -7.4505806e-009 -0.26593569 -9.5367432e-007 ;
-	setAttr ".pt[138]" -type "float3" 1.4901161e-008 -0.26593569 -9.5367432e-007 ;
-	setAttr ".pt[139]" -type "float3" -5.9604645e-008 -0.26593569 -9.5367432e-007 ;
+	setAttr ".pt[136]" -type "float3" -5.9604645e-08 0 -9.5367432e-07 ;
+	setAttr ".pt[137]" -type "float3" -7.4505806e-09 -0.26593569 -9.5367432e-07 ;
+	setAttr ".pt[138]" -type "float3" 1.4901161e-08 -0.26593569 -9.5367432e-07 ;
+	setAttr ".pt[139]" -type "float3" -5.9604645e-08 -0.26593569 -9.5367432e-07 ;
 	setAttr ".pt[140]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[141]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[142]" -type "float3" 0 -0.91488081 0 ;
@@ -282,11 +279,11 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[168]" -type "float3" -0.32141769 0.44376659 0 ;
 	setAttr ".pt[169]" -type "float3" -0.61265856 -0.072197273 0 ;
 	setAttr ".pt[170]" -type "float3" -0.61265856 0 0 ;
-	setAttr ".pt[173]" -type "float3" 0 0 1.1920929e-006 ;
-	setAttr ".pt[174]" -type "float3" 0 0 1.1920929e-006 ;
-	setAttr ".pt[175]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[176]" -type "float3" -7.4505806e-009 -0.26593569 0 ;
-	setAttr ".pt[177]" -type "float3" 1.4901161e-008 -0.26593569 0 ;
+	setAttr ".pt[173]" -type "float3" 0 0 1.1920929e-06 ;
+	setAttr ".pt[174]" -type "float3" 0 0 1.1920929e-06 ;
+	setAttr ".pt[175]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[176]" -type "float3" -7.4505806e-09 -0.26593569 0 ;
+	setAttr ".pt[177]" -type "float3" 1.4901161e-08 -0.26593569 0 ;
 	setAttr ".pt[178]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[179]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[180]" -type "float3" 0 -0.26593569 0 ;
@@ -307,11 +304,11 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[209]" -type "float3" -1.0469763 0.015369162 -0.89976913 ;
 	setAttr ".pt[210]" -type "float3" -0.31394446 0 0 ;
 	setAttr ".pt[211]" -type "float3" -0.31394446 0 0 ;
-	setAttr ".pt[212]" -type "float3" 0 0 1.1920929e-006 ;
-	setAttr ".pt[213]" -type "float3" 0 0 1.1920929e-006 ;
-	setAttr ".pt[214]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[215]" -type "float3" -7.4505806e-009 -0.26593569 0 ;
-	setAttr ".pt[216]" -type "float3" 1.4901161e-008 -0.26593569 0 ;
+	setAttr ".pt[212]" -type "float3" 0 0 1.1920929e-06 ;
+	setAttr ".pt[213]" -type "float3" 0 0 1.1920929e-06 ;
+	setAttr ".pt[214]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[215]" -type "float3" -7.4505806e-09 -0.26593569 0 ;
+	setAttr ".pt[216]" -type "float3" 1.4901161e-08 -0.26593569 0 ;
 	setAttr ".pt[217]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[218]" -type "float3" 0 -0.26593569 0 ;
 	setAttr ".pt[219]" -type "float3" 0 -0.26593569 0 ;
@@ -332,9 +329,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[248]" -type "float3" -0.74826223 0.01337906 -0.81782961 ;
 	setAttr ".pt[249]" -type "float3" -0.31394446 0 0 ;
 	setAttr ".pt[250]" -type "float3" -0.31394446 0 0 ;
-	setAttr ".pt[253]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[254]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[255]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[253]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[254]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[255]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[273]" -type "float3" 0 10.586491 0 ;
 	setAttr ".pt[274]" -type "float3" 0 10.586491 0 ;
 	setAttr ".pt[275]" -type "float3" 0 9.2702513 0 ;
@@ -349,9 +346,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[284]" -type "float3" -0.0074732304 4.8184052 0 ;
 	setAttr ".pt[285]" -type "float3" -0.0074732304 1.4821725 0 ;
 	setAttr ".pt[291]" -type "float3" 0 -0.70187998 0 ;
-	setAttr ".pt[292]" -type "float3" -5.9604645e-008 -0.70187998 0 ;
-	setAttr ".pt[293]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[294]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[292]" -type "float3" -5.9604645e-08 -0.70187998 0 ;
+	setAttr ".pt[293]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[294]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[305]" -type "float3" -0.33717492 0 0 ;
 	setAttr ".pt[306]" -type "float3" -0.33717492 0 0 ;
 	setAttr ".pt[312]" -type "float3" 0 10.586491 0 ;
@@ -370,14 +367,14 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[325]" -type "float3" 0 0.89931631 0 ;
 	setAttr ".pt[326]" -type "float3" 0 0.89931631 0 ;
 	setAttr ".pt[330]" -type "float3" 0 -0.70187998 0 ;
-	setAttr ".pt[331]" -type "float3" -5.9604645e-008 -0.70187998 0 ;
-	setAttr ".pt[332]" -type "float3" -7.4505806e-009 -0.70187998 0 ;
-	setAttr ".pt[333]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[331]" -type "float3" -5.9604645e-08 -0.70187998 0 ;
+	setAttr ".pt[332]" -type "float3" -7.4505806e-09 -0.70187998 0 ;
+	setAttr ".pt[333]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[340]" -type "float3" 0 5.5244694 0 ;
 	setAttr ".pt[341]" -type "float3" 0 5.5244694 0 ;
 	setAttr ".pt[342]" -type "float3" 0 5.5244694 0 ;
 	setAttr ".pt[343]" -type "float3" 0 5.5244694 0 ;
-	setAttr ".pt[344]" -type "float3" -0.33717492 3.9968029e-015 0 ;
+	setAttr ".pt[344]" -type "float3" -0.33717492 3.9968029e-15 0 ;
 	setAttr ".pt[345]" -type "float3" -0.33717492 0 0 ;
 	setAttr ".pt[351]" -type "float3" 0 10.586491 0 ;
 	setAttr ".pt[352]" -type "float3" 0 10.586491 0 ;
@@ -395,9 +392,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[364]" -type "float3" 0 1.5272511 0 ;
 	setAttr ".pt[365]" -type "float3" 0 1.5272511 0 ;
 	setAttr ".pt[369]" -type "float3" 0 -0.70187998 0 ;
-	setAttr ".pt[370]" -type "float3" -5.9604645e-008 -0.70187998 0 ;
-	setAttr ".pt[371]" -type "float3" -7.4505806e-009 -0.70187998 0 ;
-	setAttr ".pt[372]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[370]" -type "float3" -5.9604645e-08 -0.70187998 0 ;
+	setAttr ".pt[371]" -type "float3" -7.4505806e-09 -0.70187998 0 ;
+	setAttr ".pt[372]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[375]" -type "float3" 0 0 -0.85726959 ;
 	setAttr ".pt[376]" -type "float3" 0 0 -0.85726959 ;
 	setAttr ".pt[379]" -type "float3" 0 5.5244694 0 ;
@@ -426,9 +423,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[402]" -type "float3" 0 0.84746039 0 ;
 	setAttr ".pt[403]" -type "float3" 0 1.7054392 0 ;
 	setAttr ".pt[404]" -type "float3" 0 1.7054392 0 ;
-	setAttr ".pt[409]" -type "float3" -5.9604645e-008 -0.70187998 0 ;
-	setAttr ".pt[410]" -type "float3" -7.4505806e-009 -0.70187998 0 ;
-	setAttr ".pt[411]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[409]" -type "float3" -5.9604645e-08 -0.70187998 0 ;
+	setAttr ".pt[410]" -type "float3" -7.4505806e-09 -0.70187998 0 ;
+	setAttr ".pt[411]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[413]" -type "float3" 0.60235167 0 0 ;
 	setAttr ".pt[414]" -type "float3" 0.60235167 0 -0.85726959 ;
 	setAttr ".pt[415]" -type "float3" 0 0 -0.85726959 ;
@@ -458,9 +455,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[441]" -type "float3" 0 0.44829929 0 ;
 	setAttr ".pt[442]" -type "float3" 0 1.0775043 0 ;
 	setAttr ".pt[443]" -type "float3" 0 1.0775043 0 ;
-	setAttr ".pt[448]" -type "float3" -5.9604645e-008 0 -1.1920929e-007 ;
-	setAttr ".pt[449]" -type "float3" -7.4505806e-009 0 -1.1920929e-007 ;
-	setAttr ".pt[450]" -type "float3" 1.4901161e-008 0 -1.1920929e-007 ;
+	setAttr ".pt[448]" -type "float3" -5.9604645e-08 0 -1.1920929e-07 ;
+	setAttr ".pt[449]" -type "float3" -7.4505806e-09 0 -1.1920929e-07 ;
+	setAttr ".pt[450]" -type "float3" 1.4901161e-08 0 -1.1920929e-07 ;
 	setAttr ".pt[452]" -type "float3" 0.60235167 0 0 ;
 	setAttr ".pt[453]" -type "float3" 0.60235167 0 0 ;
 	setAttr ".pt[457]" -type "float3" 0 5.5244694 0 ;
@@ -487,9 +484,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[478]" -type "float3" 0 2.8536227 0 ;
 	setAttr ".pt[479]" -type "float3" 0 1.8589129 0 ;
 	setAttr ".pt[486]" -type "float3" 0 -0.86749303 0 ;
-	setAttr ".pt[487]" -type "float3" -5.9604645e-008 -0.86749303 0 ;
-	setAttr ".pt[488]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[489]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[487]" -type "float3" -5.9604645e-08 -0.86749303 0 ;
+	setAttr ".pt[488]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[489]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[492]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[493]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[494]" -type "float3" 0 2.3401585 0 ;
@@ -516,9 +513,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[515]" -type "float3" 0 2.7079318 0 ;
 	setAttr ".pt[516]" -type "float3" 0 2.7079318 0 ;
 	setAttr ".pt[525]" -type "float3" 0 -0.86749303 0 ;
-	setAttr ".pt[526]" -type "float3" -5.9604645e-008 -0.86749303 -1.1920929e-007 ;
-	setAttr ".pt[527]" -type "float3" -7.4505806e-009 0 -1.1920929e-007 ;
-	setAttr ".pt[528]" -type "float3" 1.4901161e-008 0 -1.1920929e-007 ;
+	setAttr ".pt[526]" -type "float3" -5.9604645e-08 -0.86749303 -1.1920929e-07 ;
+	setAttr ".pt[527]" -type "float3" -7.4505806e-09 0 -1.1920929e-07 ;
+	setAttr ".pt[528]" -type "float3" 1.4901161e-08 0 -1.1920929e-07 ;
 	setAttr ".pt[531]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[532]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[533]" -type "float3" 0 2.3401585 0 ;
@@ -546,9 +543,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[555]" -type "float3" 0 2.7079318 0 ;
 	setAttr ".pt[561]" -type "float3" 0 -0.75320971 0 ;
 	setAttr ".pt[562]" -type "float3" 0 -0.75320971 0 ;
-	setAttr ".pt[565]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[566]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[567]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[565]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[566]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[567]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[570]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[571]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[572]" -type "float3" 0 2.3401585 0 ;
@@ -576,9 +573,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[594]" -type "float3" 0 1.3198385 0 ;
 	setAttr ".pt[600]" -type "float3" 0 -0.75320971 0 ;
 	setAttr ".pt[601]" -type "float3" 0 -0.75320971 0 ;
-	setAttr ".pt[604]" -type "float3" -5.9604645e-008 0 -2.9802322e-008 ;
-	setAttr ".pt[605]" -type "float3" -7.4505806e-009 0 -2.9802322e-008 ;
-	setAttr ".pt[606]" -type "float3" 1.4901161e-008 0 -2.9802322e-008 ;
+	setAttr ".pt[604]" -type "float3" -5.9604645e-08 0 -2.9802322e-08 ;
+	setAttr ".pt[605]" -type "float3" -7.4505806e-09 0 -2.9802322e-08 ;
+	setAttr ".pt[606]" -type "float3" 1.4901161e-08 0 -2.9802322e-08 ;
 	setAttr ".pt[609]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[610]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[611]" -type "float3" 0 2.3401585 0 ;
@@ -605,9 +602,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[632]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[633]" -type "float3" 0 1.3593057 0 ;
 	setAttr ".pt[634]" -type "float3" 0 0.0089639835 0 ;
-	setAttr ".pt[643]" -type "float3" -5.9604645e-008 0 1.1920929e-007 ;
-	setAttr ".pt[644]" -type "float3" -7.4505806e-009 0 1.1920929e-007 ;
-	setAttr ".pt[645]" -type "float3" 1.4901161e-008 0 1.1920929e-007 ;
+	setAttr ".pt[643]" -type "float3" -5.9604645e-08 0 1.1920929e-07 ;
+	setAttr ".pt[644]" -type "float3" -7.4505806e-09 0 1.1920929e-07 ;
+	setAttr ".pt[645]" -type "float3" 1.4901161e-08 0 1.1920929e-07 ;
 	setAttr ".pt[648]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[649]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[650]" -type "float3" 0 2.3401585 0 ;
@@ -636,10 +633,10 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[678]" -type "float3" 0 -0.49912876 0 ;
 	setAttr ".pt[680]" -type "float3" 0 -0.32475272 0 ;
 	setAttr ".pt[681]" -type "float3" 0 -0.32475272 0 ;
-	setAttr ".pt[682]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[683]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[684]" -type "float3" 1.4901161e-008 0 0 ;
-	setAttr ".pt[686]" -type "float3" 0 -3.5498741e-030 0 ;
+	setAttr ".pt[682]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[683]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[684]" -type "float3" 1.4901161e-08 0 0 ;
+	setAttr ".pt[686]" -type "float3" 0 -3.5498741e-30 0 ;
 	setAttr ".pt[688]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[689]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[690]" -type "float3" 0 2.3401585 0 ;
@@ -665,9 +662,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[711]" -type "float3" 0 1.4881073 0 ;
 	setAttr ".pt[719]" -type "float3" 0 -0.32475272 0 ;
 	setAttr ".pt[720]" -type "float3" 0 -0.32475272 0 ;
-	setAttr ".pt[721]" -type "float3" -5.9604645e-008 0 2.3841858e-007 ;
-	setAttr ".pt[722]" -type "float3" -7.4505806e-009 0 2.3841858e-007 ;
-	setAttr ".pt[723]" -type "float3" 1.4901161e-008 0 2.3841858e-007 ;
+	setAttr ".pt[721]" -type "float3" -5.9604645e-08 0 2.3841858e-07 ;
+	setAttr ".pt[722]" -type "float3" -7.4505806e-09 0 2.3841858e-07 ;
+	setAttr ".pt[723]" -type "float3" 1.4901161e-08 0 2.3841858e-07 ;
 	setAttr ".pt[727]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[728]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[729]" -type "float3" 0 2.3401585 0 ;
@@ -692,9 +689,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[749]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[750]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[751]" -type "float3" 0 0.90989202 0 ;
-	setAttr ".pt[760]" -type "float3" -5.9604645e-008 0 4.7683716e-007 ;
-	setAttr ".pt[761]" -type "float3" -7.4505806e-009 0 4.7683716e-007 ;
-	setAttr ".pt[762]" -type "float3" 1.4901161e-008 0 4.7683716e-007 ;
+	setAttr ".pt[760]" -type "float3" -5.9604645e-08 0 4.7683716e-07 ;
+	setAttr ".pt[761]" -type "float3" -7.4505806e-09 0 4.7683716e-07 ;
+	setAttr ".pt[762]" -type "float3" 1.4901161e-08 0 4.7683716e-07 ;
 	setAttr ".pt[766]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[767]" -type "float3" 0 2.3401585 0 ;
 	setAttr ".pt[768]" -type "float3" 0 2.3401585 0 ;
@@ -720,9 +717,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[788]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[789]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[790]" -type "float3" 0 0.97448134 0 ;
-	setAttr ".pt[799]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[800]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[801]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[799]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[800]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[801]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[805]" -type "float3" 0 -0.71675229 0 ;
 	setAttr ".pt[809]" -type "float3" 0 5.5244694 0 ;
 	setAttr ".pt[810]" -type "float3" 0 5.5244694 0 ;
@@ -746,9 +743,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[828]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[829]" -type "float3" 0 1.1377255 0 ;
 	setAttr ".pt[837]" -type "float3" 0 -0.37720275 0 ;
-	setAttr ".pt[838]" -type "float3" -5.9604645e-008 -0.37720275 0 ;
-	setAttr ".pt[839]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[840]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[838]" -type "float3" -5.9604645e-08 -0.37720275 0 ;
+	setAttr ".pt[839]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[840]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[843]" -type "float3" 0 -0.18264934 0 ;
 	setAttr ".pt[848]" -type "float3" 0 4.1178889 0 ;
 	setAttr ".pt[849]" -type "float3" 0 5.5244694 0 ;
@@ -772,9 +769,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[867]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[868]" -type "float3" 0 0.99350578 0 ;
 	setAttr ".pt[876]" -type "float3" 0 -0.37720275 0 ;
-	setAttr ".pt[877]" -type "float3" -5.9604645e-008 -0.37720275 -9.5367432e-007 ;
-	setAttr ".pt[878]" -type "float3" -7.4505806e-009 -0.37720275 -9.5367432e-007 ;
-	setAttr ".pt[879]" -type "float3" 1.4901161e-008 0 -9.5367432e-007 ;
+	setAttr ".pt[877]" -type "float3" -5.9604645e-08 -0.37720275 -9.5367432e-07 ;
+	setAttr ".pt[878]" -type "float3" -7.4505806e-09 -0.37720275 -9.5367432e-07 ;
+	setAttr ".pt[879]" -type "float3" 1.4901161e-08 0 -9.5367432e-07 ;
 	setAttr ".pt[897]" -type "float3" 0 3.0117445 0 ;
 	setAttr ".pt[898]" -type "float3" 0 3.0117445 0 ;
 	setAttr ".pt[899]" -type "float3" 0 3.0117445 0 ;
@@ -787,9 +784,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[906]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[907]" -type "float3" 0 1.0012534 0 ;
 	setAttr ".pt[915]" -type "float3" 0 -0.37720275 0 ;
-	setAttr ".pt[916]" -type "float3" -5.9604645e-008 -0.27835238 4.7683716e-007 ;
-	setAttr ".pt[917]" -type "float3" -7.4505806e-009 -0.37720275 4.7683716e-007 ;
-	setAttr ".pt[918]" -type "float3" 1.4901161e-008 0 4.7683716e-007 ;
+	setAttr ".pt[916]" -type "float3" -5.9604645e-08 -0.27835238 4.7683716e-07 ;
+	setAttr ".pt[917]" -type "float3" -7.4505806e-09 -0.37720275 4.7683716e-07 ;
+	setAttr ".pt[918]" -type "float3" 1.4901161e-08 0 4.7683716e-07 ;
 	setAttr ".pt[925]" -type "float3" 0 -0.31350493 0 ;
 	setAttr ".pt[926]" -type "float3" 0 -0.31350493 0 ;
 	setAttr ".pt[929]" -type "float3" 0 -0.30760789 0 ;
@@ -810,9 +807,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[952]" -type "float3" 0 -0.48689508 0 ;
 	setAttr ".pt[953]" -type "float3" 0 -0.48689508 0 ;
 	setAttr ".pt[954]" -type "float3" 0 -0.37720275 0 ;
-	setAttr ".pt[955]" -type "float3" -5.9604645e-008 -0.37720275 0 ;
-	setAttr ".pt[956]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[957]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[955]" -type "float3" -5.9604645e-08 -0.37720275 0 ;
+	setAttr ".pt[956]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[957]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[961]" -type "float3" 0 -0.29897407 0 ;
 	setAttr ".pt[962]" -type "float3" 0 -0.29897407 0 ;
 	setAttr ".pt[964]" -type "float3" 0 -0.31350493 0 ;
@@ -837,9 +834,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[990]" -type "float3" 0 0.63312876 0 ;
 	setAttr ".pt[991]" -type "float3" 0 -0.48689508 0 ;
 	setAttr ".pt[992]" -type "float3" 0 -0.48689508 0 ;
-	setAttr ".pt[994]" -type "float3" -5.9604645e-008 0 0 ;
-	setAttr ".pt[995]" -type "float3" -7.4505806e-009 0 0 ;
-	setAttr ".pt[996]" -type "float3" 1.4901161e-008 0 0 ;
+	setAttr ".pt[994]" -type "float3" -5.9604645e-08 0 0 ;
+	setAttr ".pt[995]" -type "float3" -7.4505806e-09 0 0 ;
+	setAttr ".pt[996]" -type "float3" 1.4901161e-08 0 0 ;
 	setAttr ".pt[1000]" -type "float3" 0 -0.29897407 0 ;
 	setAttr ".pt[1001]" -type "float3" 0 -0.29897407 0 ;
 	setAttr ".pt[1014]" -type "float3" 0 1.7482979 0 ;
@@ -856,9 +853,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[1025]" -type "float3" 0 -0.04326541 0 ;
 	setAttr ".pt[1026]" -type "float3" 0 0.080088958 0 ;
 	setAttr ".pt[1027]" -type "float3" 0 0.0043364689 0 ;
-	setAttr ".pt[1033]" -type "float3" -5.9604645e-008 0 9.5367432e-007 ;
-	setAttr ".pt[1034]" -type "float3" -7.4505806e-009 0 9.5367432e-007 ;
-	setAttr ".pt[1035]" -type "float3" 1.4901161e-008 0 9.5367432e-007 ;
+	setAttr ".pt[1033]" -type "float3" -5.9604645e-08 0 9.5367432e-07 ;
+	setAttr ".pt[1034]" -type "float3" -7.4505806e-09 0 9.5367432e-07 ;
+	setAttr ".pt[1035]" -type "float3" 1.4901161e-08 0 9.5367432e-07 ;
 	setAttr ".pt[1041]" -type "float3" 0 -0.44295013 0 ;
 	setAttr ".pt[1042]" -type "float3" 0 -0.44295013 0 ;
 	setAttr ".pt[1044]" -type "float3" 0 -0.40736961 0 ;
@@ -876,9 +873,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[1062]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1063]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1064]" -type "float3" 0 0.98539466 0 ;
-	setAttr ".pt[1072]" -type "float3" -5.9604645e-008 0 -1.4305115e-006 ;
-	setAttr ".pt[1073]" -type "float3" -7.4505806e-009 0 -1.4305115e-006 ;
-	setAttr ".pt[1074]" -type "float3" 1.4901161e-008 0 -1.4305115e-006 ;
+	setAttr ".pt[1072]" -type "float3" -5.9604645e-08 0 -1.4305115e-06 ;
+	setAttr ".pt[1073]" -type "float3" -7.4505806e-09 0 -1.4305115e-06 ;
+	setAttr ".pt[1074]" -type "float3" 1.4901161e-08 0 -1.4305115e-06 ;
 	setAttr ".pt[1080]" -type "float3" 0 -0.44295013 0 ;
 	setAttr ".pt[1081]" -type "float3" 0 -0.44295013 0 ;
 	setAttr ".pt[1083]" -type "float3" 0 -0.40736961 0 ;
@@ -897,9 +894,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[1102]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1103]" -type "float3" 0 1.3209653 0 ;
 	setAttr ".pt[1110]" -type "float3" 0 -0.41156113 0 ;
-	setAttr ".pt[1111]" -type "float3" -5.9604645e-008 -0.41156113 9.5367432e-007 ;
-	setAttr ".pt[1112]" -type "float3" -7.4505806e-009 0 9.5367432e-007 ;
-	setAttr ".pt[1113]" -type "float3" 1.4901161e-008 0 9.5367432e-007 ;
+	setAttr ".pt[1111]" -type "float3" -5.9604645e-08 -0.41156113 9.5367432e-07 ;
+	setAttr ".pt[1112]" -type "float3" -7.4505806e-09 0 9.5367432e-07 ;
+	setAttr ".pt[1113]" -type "float3" 1.4901161e-08 0 9.5367432e-07 ;
 	setAttr ".pt[1131]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1132]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1133]" -type "float3" 0 1.7482979 0 ;
@@ -913,9 +910,9 @@ createNode mesh -n "pPlaneShape1" -p "pPlane1";
 	setAttr ".pt[1141]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1142]" -type "float3" 0 1.2655196 0 ;
 	setAttr ".pt[1149]" -type "float3" 0 -0.41156113 0 ;
-	setAttr ".pt[1150]" -type "float3" -5.9604645e-008 -0.41156113 4.7683716e-007 ;
-	setAttr ".pt[1151]" -type "float3" -7.4505806e-009 0 4.7683716e-007 ;
-	setAttr ".pt[1152]" -type "float3" 1.4901161e-008 0 4.7683716e-007 ;
+	setAttr ".pt[1150]" -type "float3" -5.9604645e-08 -0.41156113 4.7683716e-07 ;
+	setAttr ".pt[1151]" -type "float3" -7.4505806e-09 0 4.7683716e-07 ;
+	setAttr ".pt[1152]" -type "float3" 1.4901161e-08 0 4.7683716e-07 ;
 	setAttr ".pt[1170]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1172]" -type "float3" 0 1.7482979 0 ;
 	setAttr ".pt[1173]" -type "float3" 0 1.7482979 0 ;
@@ -941,90 +938,90 @@ createNode nurbsSurface -n "oceanPlaneShape1" -p "oceanPlane1";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
 	setAttr ".tw" yes;
-	setAttr -s 121 ".cp[0:120]" -type "double3" 0.14677356245004036 4.1577566360353477e-017 
-		-0.14677356245004036 0.13166760969656849 3.4190198363577702e-017 -0.12069530888852098 
-		0.098944563191612989 2.1021535180232667e-017 -0.074208422393709728 0.053414235837186408 
-		-1.9627860282845598e-005 -0.026687490058310337 0.010632473589959279 7.529836587766168e-019 
-		-0.0026581183974898198 0 0 0 0.010632473589959279 -7.529836587766168e-019 0.0026581183974898198 
-		0.053414235837186408 -7.5655107705930314e-018 0.026707117918593204 0.098944563191612989 
-		-2.1021535180232667e-017 0.074208422393709728 0.13166760969656849 -3.4190198363577702e-017 
-		0.12069530888852098 0.14677356245004036 -4.1577566360353477e-017 0.14677356245004036 
-		0.12069530888852098 3.7298398214811989e-017 -0.13166760969656849 0.22334387636476571 
-		6.3268170954803047e-017 -0.22334387636476571 0.20528885641474087 4.7580218233829302e-017 
-		-0.16796360979387873 0.18328848333292425 2.8320764504006899e-017 -0.099975536363413248 
-		0.16953425189925797 1.3097766799348588e-017 -0.046236614154343061 0.16847234378759496 
-		0 0 0.16953425189925797 -1.3097766799348588e-017 0.046236614154343061 0.18328848333292425 
-		-2.8320764504006899e-017 0.099975536363413248 0.20528885641474087 -4.7580218233829302e-017 
-		0.16796360979387873 0.22334387636476571 -6.3268170954803047e-017 0.22334387636476571 
-		0.12069530888852098 -3.7298398214811989e-017 0.13166760969656849 0.074208422393709728 
-		2.802871357364368e-017 -0.098944563191612989 0.16796360979387873 5.8153600063569208e-017 
-		-0.20528885641474087 0.25261524985034939 7.1560076208310855e-017 -0.25261524985034939 
-		0.2328661834254368 4.3977080671454716e-017 -0.15524412228362444 0.21975098660657011 
-		2.0750129373600711e-017 -0.073250328868856712 0.21711251513877425 0 0 0.21975098660657011 
-		-2.0750129373600717e-017 0.07325032886885674 0.2328661834254368 -4.3977080671454716e-017 
-		0.15524412228362444 0.25261524985034939 -7.1560076208310855e-017 0.25261524985034939 
-		0.16796360979387873 -5.8153600063569208e-017 0.20528885641474087 0.074208422393709728 
-		-2.802871357364368e-017 0.098944563191612989 0.026707117918593204 1.5131021541186063e-017 
-		-0.053414235837186408 0.099975536363413248 5.1921401590679278e-017 -0.18328848333292425 
-		0.15524412228362444 6.596562100718207e-017 -0.2328661834254368 0.19453643315744718 
-		5.5107686453160644e-017 -0.19453643315744718 0.18854460657107269 2.6705170061753666e-017 
-		-0.094272303285536346 0.18509276456554621 0 0 0.18854460657107269 -2.6705170061753672e-017 
-		0.094272303285536374 0.19453643315744718 -5.5107686453160644e-017 0.19453643315744718 
-		0.15524412228362444 -6.596562100718207e-017 0.2328661834254368 0.099975536363413248 
-		-5.1921401590679278e-017 0.18328848333292425 0.026707117918593204 -1.5131021541186063e-017 
-		0.053414235837186408 0.0026581183974898198 3.0119346351064672e-018 -0.010632473589959279 
-		0.046236614154343061 4.8025144930944805e-017 -0.16953425189925797 0.073250328868856712 
-		6.225038812080218e-017 -0.21975098660657011 0.094272303285536346 5.3410340123507332e-017 
-		-0.18854460657107269 0.10796038170857056 3.0582687098741499e-017 -0.10796038170857056 
-		0.10450853970304411 4.6659014702819536e-034 -1.0506676061454628e-018 0.10796038170857056 
-		-3.0582687098741499e-017 0.10796038170857059 0.094272303285536346 -5.3410340123507332e-017 
-		0.18854460657107269 0.073250328868856712 -6.225038812080218e-017 0.21975098660657011 
-		0.046236614154343061 -4.8025144930944805e-017 0.16953425189925797 0.0026581183974898198 
-		-3.0119346351064672e-018 0.010632473589959279 0 0 0 0 4.7724330845327099e-017 -0.16847234378759496 
-		0 6.1502969984245581e-017 -0.21711251513877425 0 5.2432512865965072e-017 -0.18509276456554621 
-		1.0506676061454628e-018 2.9604859841199233e-017 -0.10450853970304411 1.0506676061454628e-018 
-		4.6659014702819536e-034 -1.0506676061454628e-018 1.0506676061454628e-018 -2.9604859841199233e-017 
-		0.10450853970304413 0 -5.2432512865965072e-017 0.18509276456554621 0 -6.1502969984245581e-017 
-		0.21711251513877425 0 -4.7724330845327099e-017 0.16847234378759496 0 0 0 -0.0026581183974898198 
-		3.0119346351064672e-018 -0.010632473589959279 -0.046236614154343061 4.8025144930944805e-017 
-		-0.16953425189925797 -0.07325032886885674 6.225038812080218e-017 -0.21975098660657011 
-		-0.094272303285536374 5.3410340123507332e-017 -0.18854460657107269 -0.10796038170857059 
-		3.0582687098741499e-017 -0.10796038170857056 -0.10450853970304413 4.6659014702819536e-034 
-		-1.0506676061454628e-018 -0.10796038170857059 -3.0582687098741499e-017 0.10796038170857059 
-		-0.094272303285536374 -5.3410340123507332e-017 0.18854460657107269 -0.07325032886885674 
-		-6.225038812080218e-017 0.21975098660657011 -0.046236614154343061 -4.8025144930944805e-017 
-		0.16953425189925797 -0.0026581183974898198 -3.0119346351064672e-018 0.010632473589959279 
-		-0.026707117918593204 1.5131021541186063e-017 -0.053414235837186408 -0.099975536363413248 
-		5.1921401590679278e-017 -0.18328848333292425 -0.15524412228362444 6.596562100718207e-017 
-		-0.2328661834254368 -0.19453643315744718 5.5107686453160644e-017 -0.19453643315744718 
-		-0.18854460657107269 2.6705170061753666e-017 -0.094272303285536346 -0.18509276456554621 
-		0 0 -0.18854460657107269 -2.6705170061753672e-017 0.094272303285536374 -0.19453643315744718 
-		-5.5107686453160644e-017 0.19453643315744718 -0.15524412228362444 -6.596562100718207e-017 
-		0.2328661834254368 -0.099975536363413248 -5.1921401590679278e-017 0.18328848333292425 
-		-0.026707117918593204 -1.5131021541186063e-017 0.053414235837186408 -0.074208422393709728 
-		2.802871357364368e-017 -0.098944563191612989 -0.16796360979387873 5.8153600063569208e-017 
-		-0.20528885641474087 -0.25261524985034939 7.1560076208310855e-017 -0.25261524985034939 
-		-0.2328661834254368 4.3977080671454716e-017 -0.15524412228362444 -0.21975098660657011 
-		2.0750129373600711e-017 -0.073250328868856712 -0.21711251513877425 0 0 -0.21975098660657011 
-		-2.0750129373600717e-017 0.07325032886885674 -0.2328661834254368 -4.3977080671454716e-017 
-		0.15524412228362444 -0.25261524985034939 -7.1560076208310855e-017 0.25261524985034939 
-		-0.16796360979387873 -5.8153600063569208e-017 0.20528885641474087 -0.074208422393709728 
-		-2.802871357364368e-017 0.098944563191612989 -0.12069530888852098 3.7298398214811989e-017 
-		-0.13166760969656849 -0.22334387636476571 6.3268170954803047e-017 -0.22334387636476571 
-		-0.20528885641474087 4.7580218233829302e-017 -0.16796360979387873 -0.18328848333292425 
-		2.8320764504006899e-017 -0.099975536363413248 -0.16953425189925797 1.3097766799348588e-017 
-		-0.046236614154343061 -0.16847234378759496 0 0 -0.16953425189925797 -1.3097766799348588e-017 
-		0.046236614154343061 -0.18328848333292425 -2.8320764504006899e-017 0.099975536363413248 
-		-0.20528885641474087 -4.7580218233829302e-017 0.16796360979387873 -0.22334387636476571 
-		-6.3268170954803047e-017 0.22334387636476571 -0.12069530888852098 -3.7298398214811989e-017 
-		0.13166760969656849 -0.14677356245004036 4.1577566360353477e-017 -0.14677356245004036 
-		-0.13166760969656849 3.4190198363577702e-017 -0.12069530888852098 -0.098944563191612989 
-		2.1021535180232667e-017 -0.074208422393709728 -0.053414235837186408 7.5655107705930314e-018 
-		-0.026707117918593204 -0.010632473589959279 7.529836587766168e-019 -0.0026581183974898198 
-		0 0 0 -0.010632473589959279 -7.529836587766168e-019 0.0026581183974898198 -0.053414235837186408 
-		-7.5655107705930314e-018 0.026707117918593204 -0.098944563191612989 -2.1021535180232667e-017 
-		0.074208422393709728 -0.13166760969656849 -3.4190198363577702e-017 0.12069530888852098 
-		-0.14677356245004036 -4.1577566360353477e-017 0.14677356245004036;
+	setAttr -s 121 ".cp[0:120]" -type "double3" 0.14677356245004036 4.1577566360353477e-17 
+		-0.14677356245004036 0.13166760969656849 3.4190198363577702e-17 -0.12069530888852098 
+		0.098944563191612989 2.1021535180232667e-17 -0.074208422393709728 0.053414235837186408 
+		-1.9627860282845598e-05 -0.026687490058310337 0.010632473589959279 7.529836587766168e-19 
+		-0.0026581183974898198 0 0 0 0.010632473589959279 -7.529836587766168e-19 0.0026581183974898198 
+		0.053414235837186408 -7.5655107705930314e-18 0.026707117918593204 0.098944563191612989 
+		-2.1021535180232667e-17 0.074208422393709728 0.13166760969656849 -3.4190198363577702e-17 
+		0.12069530888852098 0.14677356245004036 -4.1577566360353477e-17 0.14677356245004036 
+		0.12069530888852098 3.7298398214811989e-17 -0.13166760969656849 0.22334387636476571 
+		6.3268170954803047e-17 -0.22334387636476571 0.20528885641474087 4.7580218233829302e-17 
+		-0.16796360979387873 0.18328848333292425 2.8320764504006899e-17 -0.099975536363413248 
+		0.16953425189925797 1.3097766799348588e-17 -0.046236614154343061 0.16847234378759496 
+		0 0 0.16953425189925797 -1.3097766799348588e-17 0.046236614154343061 0.18328848333292425 
+		-2.8320764504006899e-17 0.099975536363413248 0.20528885641474087 -4.7580218233829302e-17 
+		0.16796360979387873 0.22334387636476571 -6.3268170954803047e-17 0.22334387636476571 
+		0.12069530888852098 -3.7298398214811989e-17 0.13166760969656849 0.074208422393709728 
+		2.802871357364368e-17 -0.098944563191612989 0.16796360979387873 5.8153600063569208e-17 
+		-0.20528885641474087 0.25261524985034939 7.1560076208310855e-17 -0.25261524985034939 
+		0.2328661834254368 4.3977080671454716e-17 -0.15524412228362444 0.21975098660657011 
+		2.0750129373600711e-17 -0.073250328868856712 0.21711251513877425 0 0 0.21975098660657011 
+		-2.0750129373600717e-17 0.07325032886885674 0.2328661834254368 -4.3977080671454716e-17 
+		0.15524412228362444 0.25261524985034939 -7.1560076208310855e-17 0.25261524985034939 
+		0.16796360979387873 -5.8153600063569208e-17 0.20528885641474087 0.074208422393709728 
+		-2.802871357364368e-17 0.098944563191612989 0.026707117918593204 1.5131021541186063e-17 
+		-0.053414235837186408 0.099975536363413248 5.1921401590679278e-17 -0.18328848333292425 
+		0.15524412228362444 6.596562100718207e-17 -0.2328661834254368 0.19453643315744718 
+		5.5107686453160644e-17 -0.19453643315744718 0.18854460657107269 2.6705170061753666e-17 
+		-0.094272303285536346 0.18509276456554621 0 0 0.18854460657107269 -2.6705170061753672e-17 
+		0.094272303285536374 0.19453643315744718 -5.5107686453160644e-17 0.19453643315744718 
+		0.15524412228362444 -6.596562100718207e-17 0.2328661834254368 0.099975536363413248 
+		-5.1921401590679278e-17 0.18328848333292425 0.026707117918593204 -1.5131021541186063e-17 
+		0.053414235837186408 0.0026581183974898198 3.0119346351064672e-18 -0.010632473589959279 
+		0.046236614154343061 4.8025144930944805e-17 -0.16953425189925797 0.073250328868856712 
+		6.225038812080218e-17 -0.21975098660657011 0.094272303285536346 5.3410340123507332e-17 
+		-0.18854460657107269 0.10796038170857056 3.0582687098741499e-17 -0.10796038170857056 
+		0.10450853970304411 4.6659014702819536e-34 -1.0506676061454628e-18 0.10796038170857056 
+		-3.0582687098741499e-17 0.10796038170857059 0.094272303285536346 -5.3410340123507332e-17 
+		0.18854460657107269 0.073250328868856712 -6.225038812080218e-17 0.21975098660657011 
+		0.046236614154343061 -4.8025144930944805e-17 0.16953425189925797 0.0026581183974898198 
+		-3.0119346351064672e-18 0.010632473589959279 0 0 0 0 4.7724330845327099e-17 -0.16847234378759496 
+		0 6.1502969984245581e-17 -0.21711251513877425 0 5.2432512865965072e-17 -0.18509276456554621 
+		1.0506676061454628e-18 2.9604859841199233e-17 -0.10450853970304411 1.0506676061454628e-18 
+		4.6659014702819536e-34 -1.0506676061454628e-18 1.0506676061454628e-18 -2.9604859841199233e-17 
+		0.10450853970304413 0 -5.2432512865965072e-17 0.18509276456554621 0 -6.1502969984245581e-17 
+		0.21711251513877425 0 -4.7724330845327099e-17 0.16847234378759496 0 0 0 -0.0026581183974898198 
+		3.0119346351064672e-18 -0.010632473589959279 -0.046236614154343061 4.8025144930944805e-17 
+		-0.16953425189925797 -0.07325032886885674 6.225038812080218e-17 -0.21975098660657011 
+		-0.094272303285536374 5.3410340123507332e-17 -0.18854460657107269 -0.10796038170857059 
+		3.0582687098741499e-17 -0.10796038170857056 -0.10450853970304413 4.6659014702819536e-34 
+		-1.0506676061454628e-18 -0.10796038170857059 -3.0582687098741499e-17 0.10796038170857059 
+		-0.094272303285536374 -5.3410340123507332e-17 0.18854460657107269 -0.07325032886885674 
+		-6.225038812080218e-17 0.21975098660657011 -0.046236614154343061 -4.8025144930944805e-17 
+		0.16953425189925797 -0.0026581183974898198 -3.0119346351064672e-18 0.010632473589959279 
+		-0.026707117918593204 1.5131021541186063e-17 -0.053414235837186408 -0.099975536363413248 
+		5.1921401590679278e-17 -0.18328848333292425 -0.15524412228362444 6.596562100718207e-17 
+		-0.2328661834254368 -0.19453643315744718 5.5107686453160644e-17 -0.19453643315744718 
+		-0.18854460657107269 2.6705170061753666e-17 -0.094272303285536346 -0.18509276456554621 
+		0 0 -0.18854460657107269 -2.6705170061753672e-17 0.094272303285536374 -0.19453643315744718 
+		-5.5107686453160644e-17 0.19453643315744718 -0.15524412228362444 -6.596562100718207e-17 
+		0.2328661834254368 -0.099975536363413248 -5.1921401590679278e-17 0.18328848333292425 
+		-0.026707117918593204 -1.5131021541186063e-17 0.053414235837186408 -0.074208422393709728 
+		2.802871357364368e-17 -0.098944563191612989 -0.16796360979387873 5.8153600063569208e-17 
+		-0.20528885641474087 -0.25261524985034939 7.1560076208310855e-17 -0.25261524985034939 
+		-0.2328661834254368 4.3977080671454716e-17 -0.15524412228362444 -0.21975098660657011 
+		2.0750129373600711e-17 -0.073250328868856712 -0.21711251513877425 0 0 -0.21975098660657011 
+		-2.0750129373600717e-17 0.07325032886885674 -0.2328661834254368 -4.3977080671454716e-17 
+		0.15524412228362444 -0.25261524985034939 -7.1560076208310855e-17 0.25261524985034939 
+		-0.16796360979387873 -5.8153600063569208e-17 0.20528885641474087 -0.074208422393709728 
+		-2.802871357364368e-17 0.098944563191612989 -0.12069530888852098 3.7298398214811989e-17 
+		-0.13166760969656849 -0.22334387636476571 6.3268170954803047e-17 -0.22334387636476571 
+		-0.20528885641474087 4.7580218233829302e-17 -0.16796360979387873 -0.18328848333292425 
+		2.8320764504006899e-17 -0.099975536363413248 -0.16953425189925797 1.3097766799348588e-17 
+		-0.046236614154343061 -0.16847234378759496 0 0 -0.16953425189925797 -1.3097766799348588e-17 
+		0.046236614154343061 -0.18328848333292425 -2.8320764504006899e-17 0.099975536363413248 
+		-0.20528885641474087 -4.7580218233829302e-17 0.16796360979387873 -0.22334387636476571 
+		-6.3268170954803047e-17 0.22334387636476571 -0.12069530888852098 -3.7298398214811989e-17 
+		0.13166760969656849 -0.14677356245004036 4.1577566360353477e-17 -0.14677356245004036 
+		-0.13166760969656849 3.4190198363577702e-17 -0.12069530888852098 -0.098944563191612989 
+		2.1021535180232667e-17 -0.074208422393709728 -0.053414235837186408 7.5655107705930314e-18 
+		-0.026707117918593204 -0.010632473589959279 7.529836587766168e-19 -0.0026581183974898198 
+		0 0 0 -0.010632473589959279 -7.529836587766168e-19 0.0026581183974898198 -0.053414235837186408 
+		-7.5655107705930314e-18 0.026707117918593204 -0.098944563191612989 -2.1021535180232667e-17 
+		0.074208422393709728 -0.13166760969656849 -3.4190198363577702e-17 0.12069530888852098 
+		-0.14677356245004036 -4.1577566360353477e-17 0.14677356245004036;
 	setAttr ".fbda" no;
 	setAttr ".dvu" 0;
 	setAttr ".dvv" 0;
@@ -1201,7 +1198,7 @@ createNode mentalrayIblShape -n "mentalrayIblShape1" -p "mentalrayIbl1";
 createNode lookAt -n "camera2_group";
 	setAttr ".a" -type "double3" 0 0 -1 ;
 	setAttr ".db" 27.867260452121194;
-	setAttr ".tws" -2.091309789151873e-006;
+	setAttr ".tws" -2.091309789151873e-06;
 createNode transform -n "camera2" -p "camera2_group";
 	setAttr ".t" -type "double3" 9.9194999539823261 2.9145561775531528 -74.471869567851371 ;
 createNode camera -n "cameraShape5" -p "camera2";
@@ -1215,7 +1212,7 @@ createNode camera -n "cameraShape5" -p "camera2";
 	setAttr ".den" -type "string" "camera2_depth";
 	setAttr ".man" -type "string" "camera2_mask";
 createNode transform -n "camera2_aim" -p "camera2_group";
-	setAttr ".t" -type "double3" 2.7963977550534738 -2.7991498008361759e-014 -47.688460851672993 ;
+	setAttr ".t" -type "double3" 2.7963977550534738 -2.7991498008361759e-14 -47.688460851672993 ;
 	setAttr ".drp" yes;
 createNode locator -n "camera2_aimShape" -p "camera2_aim";
 	setAttr -k off ".v" no;
@@ -1437,8 +1434,8 @@ createNode mentalrayOptions -s -n "miDefaultOptions";
 	setAttr ".stringOptions[47].type" -type "string" "color";
 createNode mentalrayFramebuffer -s -n "miDefaultFramebuffer";
 createNode lightLinker -s -n "lightLinker1";
-	setAttr -s 153 ".lnk";
-	setAttr -s 153 ".slnk";
+	setAttr -s 138 ".lnk";
+	setAttr -s 138 ".slnk";
 createNode displayLayerManager -n "layerManager";
 createNode displayLayer -n "defaultLayer";
 createNode renderLayerManager -n "renderLayerManager";
@@ -1471,10 +1468,10 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"front\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n"
 		+ "            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n"
 		+ "            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `modelPanel -unParent -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels `;\n\t\t\t$editorName = $panelName;\n"
-		+ "            modelEditor -e \n                -camera \"persp\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"smoothShaded\" \n                -activeOnly 0\n                -ignorePanZoom 0\n                -wireframeOnShaded 0\n                -headsUpDisplay 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n                -twoSidedLighting 0\n                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 16384\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n"
+		+ "            modelEditor -e \n                -camera \"Plane:cameraShape1\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"smoothShaded\" \n                -activeOnly 0\n                -ignorePanZoom 0\n                -wireframeOnShaded 0\n                -headsUpDisplay 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n                -twoSidedLighting 0\n                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 16384\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n"
 		+ "                -fogEnd 100\n                -fogDensity 0.1\n                -fogColor 0.5 0.5 0.5 1 \n                -maxConstantTransparency 1\n                -rendererName \"vp2Renderer\" \n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 256 256 \n                -bumpResolution 512 512 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n                -maximumNumHardwareLights 1\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n"
 		+ "                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 0\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                $editorName;\n            modelEditor -e -viewSelected 0 $editorName;\n\t\t}\n"
-		+ "\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n"
+		+ "\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"Plane:cameraShape1\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n"
 		+ "            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n"
 		+ "            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 0\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"Outliner\")) `;\n\tif (\"\" == $panelName) {\n"
 		+ "\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `outlinerPanel -unParent -l (localizedPanelLabel(\"Outliner\")) -mbv $menusOkayInPanels `;\n\t\t\t$editorName = $panelName;\n            outlinerEditor -e \n                -showShapes 0\n                -showReferenceNodes 1\n                -showReferenceMembers 0\n                -showAttributes 0\n                -showConnected 0\n                -showAnimCurvesOnly 0\n                -showMuteInfo 0\n                -organizeByLayer 1\n                -showAnimLayerWeight 1\n                -autoExpandLayers 1\n                -autoExpand 0\n                -showDagOnly 1\n                -showAssets 1\n                -showContainedOnly 1\n                -showPublishedAsConnected 0\n                -showContainerContents 1\n                -ignoreDagHierarchy 0\n                -expandConnections 0\n                -showUpstreamCurves 1\n                -showUnitlessCurves 1\n                -showCompounds 1\n                -showLeafs 1\n                -showNumericAttrsOnly 0\n                -highlightActive 1\n"
@@ -1506,16 +1503,16 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"dynRelEdPanel\" (localizedPanelLabel(\"Dynamic Relationships\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"dynRelEdPanel\" -l (localizedPanelLabel(\"Dynamic Relationships\")) -mbv $menusOkayInPanels `;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Dynamic Relationships\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"relationshipPanel\" (localizedPanelLabel(\"Relationship Editor\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"relationshipPanel\" -l (localizedPanelLabel(\"Relationship Editor\")) -mbv $menusOkayInPanels `;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Relationship Editor\")) -mbv $menusOkayInPanels  $panelName;\n"
 		+ "\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"referenceEditorPanel\" (localizedPanelLabel(\"Reference Editor\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"referenceEditorPanel\" -l (localizedPanelLabel(\"Reference Editor\")) -mbv $menusOkayInPanels `;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Reference Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\tif ($useSceneConfig) {\n\t\tscriptedPanel -e -to $panelName;\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"componentEditorPanel\" (localizedPanelLabel(\"Component Editor\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"componentEditorPanel\" -l (localizedPanelLabel(\"Component Editor\")) -mbv $menusOkayInPanels `;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n"
 		+ "\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Component Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"dynPaintScriptedPanelType\" (localizedPanelLabel(\"Paint Effects\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"dynPaintScriptedPanelType\" -l (localizedPanelLabel(\"Paint Effects\")) -mbv $menusOkayInPanels `;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Paint Effects\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"scriptEditorPanel\" (localizedPanelLabel(\"Script Editor\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"scriptEditorPanel\" -l (localizedPanelLabel(\"Script Editor\")) -mbv $menusOkayInPanels `;\n\t\t}\n"
-		+ "\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Script Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\tif ($useSceneConfig) {\n\t\tscriptedPanel -e -to $panelName;\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"Stereo\" (localizedPanelLabel(\"Stereo\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"Stereo\" -l (localizedPanelLabel(\"Stereo\")) -mbv $menusOkayInPanels `;\nstring $editorName = ($panelName+\"Editor\");\n            stereoCameraView -e \n                -camera \"Plane:cameraShape1\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"wireframe\" \n                -activeOnly 0\n                -ignorePanZoom 0\n                -wireframeOnShaded 0\n                -headsUpDisplay 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n"
-		+ "                -twoSidedLighting 1\n                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 16384\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n                -fogEnd 100\n                -fogDensity 0.1\n                -fogColor 0.5 0.5 0.5 1 \n                -maxConstantTransparency 1\n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 4 4 \n                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n"
-		+ "                -lowQualityLighting 0\n                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n"
-		+ "                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Stereo\")) -mbv $menusOkayInPanels  $panelName;\nstring $editorName = ($panelName+\"Editor\");\n            stereoCameraView -e \n                -camera \"Plane:cameraShape1\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"wireframe\" \n                -activeOnly 0\n"
+		+ "\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Script Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"Stereo\" (localizedPanelLabel(\"Stereo\")) `;\n\tif (\"\" == $panelName) {\n\t\tif ($useSceneConfig) {\n\t\t\t$panelName = `scriptedPanel -unParent  -type \"Stereo\" -l (localizedPanelLabel(\"Stereo\")) -mbv $menusOkayInPanels `;\nstring $editorName = ($panelName+\"Editor\");\n            stereoCameraView -e \n                -camera \"Plane:cameraShape1\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"wireframe\" \n                -activeOnly 0\n                -ignorePanZoom 0\n                -wireframeOnShaded 0\n                -headsUpDisplay 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n                -twoSidedLighting 1\n"
+		+ "                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 16384\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n                -fogEnd 100\n                -fogDensity 0.1\n                -fogColor 0.5 0.5 0.5 1 \n                -maxConstantTransparency 1\n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 4 4 \n                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n"
+		+ "                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n"
+		+ "                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n\t\t}\n\t} else {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Stereo\")) -mbv $menusOkayInPanels  $panelName;\nstring $editorName = ($panelName+\"Editor\");\n            stereoCameraView -e \n                -camera \"Plane:cameraShape1\" \n                -useInteractiveMode 0\n                -displayLights \"default\" \n                -displayAppearance \"wireframe\" \n                -activeOnly 0\n"
 		+ "                -ignorePanZoom 0\n                -wireframeOnShaded 0\n                -headsUpDisplay 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n                -twoSidedLighting 1\n                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 16384\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n                -fogEnd 100\n                -fogDensity 0.1\n                -fogColor 0.5 0.5 0.5 1 \n                -maxConstantTransparency 1\n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 4 4 \n"
 		+ "                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n"
 		+ "                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n"
 		+ "\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n\t\t\t\t-defaultImage \"\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"single\\\" -ps 1 100 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Persp View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"Plane:cameraShape1\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"Plane:cameraShape1\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName\"\n"
 		+ "\t\t\t\t$configName;\n\n            setNamedPanelLayout (localizedPanelLabel(\"Current Layout\"));\n        }\n\n        panelHistory -e -clear mainPanelHistory;\n        setFocus `paneLayout -q -p1 $gMainPane`;\n        sceneUIReplacement -deleteRemaining;\n        sceneUIReplacement -clear;\n\t}\n\n\ngrid -spacing 5 -size 12 -divisions 5 -displayAxes yes -displayGridLines yes -displayDivisionLines yes -displayPerspectiveLabels no -displayOrthographicLabels no -displayAxesBold yes -perspectiveLabelPosition axis -orthographicLabelPosition edge;\nviewManip -drawCompass 0 -compassAngle 0 -frontParameters \"\" -homeParameters \"\" -selectionLockParameters \"\";\n}\n");
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
@@ -1583,7 +1580,7 @@ createNode shadingEngine -n "lambert4SG";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo5";
 createNode file -n "file1";
-	setAttr ".ftn" -type "string" "/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture1";
 createNode lambert -n "lambert5";
 createNode shadingEngine -n "lambert5SG";
@@ -1627,7 +1624,7 @@ createNode oceanShader -n "SailboatWake_oceanShader1";
 	setAttr ".wh[0]"  0 0.12 1;
 	setAttr ".wtb[0]"  0 1 1;
 	setAttr -s 2 ".wp[0:1]"  0 0.30000001 1 1 0.5 1;
-	setAttr ".d" -0.012639335356652737;
+	setAttr ".d" -0.012639326974749565;
 	setAttr ".miic" -type "float3" 3.1415927 3.1415927 3.1415927 ;
 createNode expression -n "expression1";
 	setAttr -k on ".nds";
@@ -1717,7 +1714,7 @@ createNode shadingEngine -n "lambert7SG";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo8";
 createNode file -n "file4";
-	setAttr ".ftn" -type "string" "/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture5";
 createNode lambert -n "lambert8";
 createNode shadingEngine -n "lambert8SG";
@@ -1770,7 +1767,7 @@ createNode materialInfo -n "materialInfo13";
 createNode file -n "file16";
 createNode place2dTexture -n "place2dTexture17";
 createNode file -n "file17";
-	setAttr ".ftn" -type "string" "/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture18";
 createNode lambert -n "lambert14";
 createNode shadingEngine -n "lambert14SG";
@@ -1778,7 +1775,7 @@ createNode shadingEngine -n "lambert14SG";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo14";
 createNode file -n "file18";
-	setAttr ".ftn" -type "string" "/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/02-Textures/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture19";
 createNode lambert -n "lambert15";
 createNode shadingEngine -n "lambert15SG";
@@ -1786,7 +1783,7 @@ createNode shadingEngine -n "lambert15SG";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo15";
 createNode file -n "file19";
-	setAttr ".ftn" -type "string" "/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture20";
 createNode reference -n "BaumMitAstenRN";
 	setAttr ".ed" -type "dataReferenceEdits" 
@@ -1839,7 +1836,7 @@ createNode shadingEngine -n "lambert19SG";
 	setAttr -s 2 ".gn";
 createNode materialInfo -n "materialInfo19";
 createNode file -n "file20";
-	setAttr ".ftn" -type "string" "C:/Users/fdai3231/Documents/maya/projects/default//02-Textures/klippentextur_512.tga";
+	setAttr ".ftn" -type "string" "/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga";
 createNode place2dTexture -n "place2dTexture21";
 createNode oceanShader -n "oceanShader3";
 	setAttr -s 3 ".env";
@@ -1855,7 +1852,7 @@ createNode oceanShader -n "oceanShader3";
 	setAttr ".wh[0]"  0 0.16 1;
 	setAttr ".wtb[0]"  0 1 1;
 	setAttr -s 2 ".wp[0:1]"  0 0.30000001 1 1 0.5 1;
-	setAttr ".d" -0.016852447763085365;
+	setAttr ".d" -0.016852438449859619;
 createNode shadingEngine -n "oceanShader3SG";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
@@ -2031,7 +2028,7 @@ createNode reference -n "topfRN";
 		"topfRN" 0
 		"topfRN" 17
 		0 "|topf:pCylinder1" "|topf1" "-s -r "
-		2 "|topf1|topf:pCylinder1" "translate" " -type \"double3\" 83.403667399600678 -14.485490654003607 0"
+		2 "|topf1|topf:pCylinder1" "translate" " -type \"double3\" 83.40366739960067832 -14.48549065400360725 0"
 		
 		2 "|topf1|topf:pCylinder1" "translateX" " -av"
 		2 "|topf1|topf:pCylinder1" "translateY" " -av"
@@ -2362,9 +2359,9 @@ createNode reference -n "AffeLastRN";
 		"AffeLastRN"
 		"AffeLastRN" 0
 		"AffeLastRN" 3
-		2 "|AffeLast:monkey:Mesh" "translate" " -type \"double3\" -7.2181069300457885 -0.011355074938041582 -41.830230312355027"
+		2 "|AffeLast:monkey:Mesh" "translate" " -type \"double3\" -7.21810693004578852 -0.011355074938041582 -41.83023031235502742"
 		
-		2 "|AffeLast:monkey:Mesh" "rotate" " -type \"double3\" 162.69424552141768 88.026613281055447 159.12786685804147"
+		2 "|AffeLast:monkey:Mesh" "rotate" " -type \"double3\" 162.69424552141768459 88.02661328105544669 159.12786685804147169"
 		
 		2 "|AffeLast:monkey:Mesh" "scale" " -type \"double3\" 0.73296073890225044 0.73296073890225044 1";
 	setAttr ".ptag" -type "string" "";
@@ -2377,18 +2374,19 @@ createNode reference -n "PlaneRN1";
 		"PlaneRN1"
 		"PlaneRN1" 0
 		"PlaneRN1" 18
-		2 "|Plane:Schaerfe" "translate" " -type \"double3\" -1.0719881847724648 3.4479803314518147 -31.872186419121768"
+		2 "|Plane:Schaerfe" "translate" " -type \"double3\" -1.07198818477246482 3.44798033145181471 -31.87218641912176764"
 		
-		2 "|Plane:Schaerfe" "rotate" " -type \"double3\" 0 40.48387088676499 0"
-		2 "|Plane:Schaerfe" "scale" " -type \"double3\" 1.2683057768428951 1 1.2683057768428951"
+		2 "|Plane:Schaerfe" "rotate" " -type \"double3\" 0 40.4838708867649899 0"
+		
+		2 "|Plane:Schaerfe" "scale" " -type \"double3\" 1.26830577684289514 1 1.26830577684289514"
 		
 		2 "|Plane:Schaerfe|Plane:distanceDimension1" "translate" " -type \"double3\" -0.098807392638803351 0 0"
 		
-		2 "|Plane:Schaerfe|Plane:camera1" "translate" " -type \"double3\" 10.963759467607971 -0.87978389252282407 -3.9469545605970744"
+		2 "|Plane:Schaerfe|Plane:camera1" "translate" " -type \"double3\" 10.96375946760797149 -0.87978389252282407 -3.94695456059707439"
 		
-		2 "|Plane:Schaerfe|Plane:camera1" "rotate" " -type \"double3\" -3.0467005961449574 64.631219724312345 -3.3146412549211193"
+		2 "|Plane:Schaerfe|Plane:camera1" "rotate" " -type \"double3\" -3.04670059614495736 64.63121972431234497 -3.31464125492111927"
 		
-		2 "|Plane:Schaerfe|Plane:camera1" "scale" " -type \"double3\" 0.71145502068802713 0.56004175855050409 1.0000000000000004"
+		2 "|Plane:Schaerfe|Plane:camera1" "scale" " -type \"double3\" 0.71145502068802713 0.56004175855050409 1.00000000000000044"
 		
 		2 "|Plane:Schaerfe|Plane:camera1" "rotatePivot" " -type \"double3\" 0 0 0"
 		
@@ -2399,13 +2397,13 @@ createNode reference -n "PlaneRN1";
 		
 		2 "|Plane:Schaerfe|Plane:camera1|Plane:cameraShape1" "farClipPlane" " 10000"
 		
-		2 "|Plane:Schaerfe|Plane:camera1|Plane:cameraShape1" "centerOfInterest" " 7.4475938020283383"
+		2 "|Plane:Schaerfe|Plane:camera1|Plane:cameraShape1" "centerOfInterest" " 7.44759380202833832"
 		
 		2 "|Plane:Schaerfe|Plane:camera1|Plane:cameraShape1" "focusRegionScale" " 1.2"
 		
-		2 "|Plane:Schaerfe|Plane:locator4" "translate" " -type \"double3\" 3.9149531163576317 -2.700607621681411 -5.9266045901609381"
+		2 "|Plane:Schaerfe|Plane:locator4" "translate" " -type \"double3\" 3.91495311635763166 -2.700607621681411 -5.9266045901609381"
 		
-		2 "|Plane:Schaerfe|Plane:locator4" "rotate" " -type \"double3\" 0 35.206046266149869 0"
+		2 "|Plane:Schaerfe|Plane:locator4" "rotate" " -type \"double3\" 0 35.20604626614986898 0"
 		
 		5 4 "PlaneRN1" "|Plane:Schaerfe|Plane:camera1|Plane:cameraShape1.miLensShader" 
 		"PlaneRN1.placeHolderList[1]" ""
@@ -2417,9 +2415,9 @@ createNode reference -n "BaumMitAsten2RN";
 		"BaumMitAsten2RN"
 		"BaumMitAsten2RN" 0
 		"BaumMitAsten2RN" 10
-		2 "|BaumMitAsten12:NeuerBaum" "translate" " -type \"double3\" -14.131511655371957 1.4743899076303908 -32.433549090726508"
+		2 "|BaumMitAsten12:NeuerBaum" "translate" " -type \"double3\" -14.1315116553719573 1.47438990763039079 -32.43354909072650827"
 		
-		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "translate" " -type \"double3\" 1.7738822265166956 2.5351798839723987 1.013659968710046"
+		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "translate" " -type \"double3\" 1.77388222651669558 2.53517988397239868 1.01365996871004604"
 		
 		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "translateX" " -av"
 		
@@ -2432,7 +2430,7 @@ createNode reference -n "BaumMitAsten2RN";
 		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "scaleX" " -av"
 		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "scaleY" " -av"
 		2 "|BaumMitAsten12:NeuerBaum|BaumMitAsten12:Baumstamm" "scaleZ" " -av"
-		2 "BaumMitAsten12:file1" "fileTextureName" " -type \"string\" \"/Users/meltemozkul/Google Drive/3D modelleriung/Projekt/51-MOE-Animation/02-Textures/bark.tga\"";
+		2 "BaumMitAsten12:file1" "fileTextureName" " -type \"string\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/bark.tga\"";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BaumMitAsten2RN1";
@@ -2440,7 +2438,7 @@ createNode reference -n "BaumMitAsten2RN1";
 		"BaumMitAsten2RN1"
 		"BaumMitAsten2RN1" 0
 		"BaumMitAsten2RN1" 6
-		2 "|BaumMitAsten13:NeuerBaum" "translate" " -type \"double3\" -12.505629016779221 1.8940843489220507 -34.499481063067826"
+		2 "|BaumMitAsten13:NeuerBaum" "translate" " -type \"double3\" -12.50562901677922056 1.89408434892205069 -34.49948106306782591"
 		
 		2 "|BaumMitAsten13:NeuerBaum" "scale" " -type \"double3\" 1 0.75156810963078846 0.75156810963078846"
 		
@@ -2456,7 +2454,7 @@ createNode reference -n "BaumMitAsten2RN2";
 		"BaumMitAsten2RN2"
 		"BaumMitAsten2RN2" 0
 		"BaumMitAsten2RN2" 5
-		2 "|BaumMitAsten14:NeuerBaum" "translate" " -type \"double3\" -16.254934652179855 1.1403769969532096 -37.78676090435291"
+		2 "|BaumMitAsten14:NeuerBaum" "translate" " -type \"double3\" -16.25493465217985545 1.1403769969532096 -37.78676090435291002"
 		
 		2 "|BaumMitAsten14:NeuerBaum|BaumMitAsten14:Baumstamm" "scale" " -type \"double3\" 0.48250674087569356 1 0.35776040987406632"
 		
@@ -2470,9 +2468,9 @@ createNode reference -n "BaumMitAsten2RN3";
 		"BaumMitAsten2RN3"
 		"BaumMitAsten2RN3" 0
 		"BaumMitAsten2RN3" 7
-		2 "|BaumMitAsten15:NeuerBaum" "translate" " -type \"double3\" -11.844177436961605 0 -39.049385131049007"
+		2 "|BaumMitAsten15:NeuerBaum" "translate" " -type \"double3\" -11.84417743696160485 0 -39.04938513104900721"
 		
-		2 "|BaumMitAsten15:NeuerBaum" "rotate" " -type \"double3\" 0 90.94820336170568 0"
+		2 "|BaumMitAsten15:NeuerBaum" "rotate" " -type \"double3\" 0 90.94820336170567998 0"
 		
 		2 "|BaumMitAsten15:NeuerBaum" "scale" " -type \"double3\" 1 0.9466542088144273 0.9466542088144273"
 		
@@ -2569,9 +2567,9 @@ createNode reference -n "BaumMitAsten2RN4";
 		"BaumMitAsten2RN4"
 		"BaumMitAsten2RN4" 0
 		"BaumMitAsten2RN4" 87
-		2 "|BaumMitAsten16:NeuerBaum" "translate" " -type \"double3\" -15.431456048709771 0 -46.304041573397676"
+		2 "|BaumMitAsten16:NeuerBaum" "translate" " -type \"double3\" -15.43145604870977117 0 -46.30404157339767579"
 		
-		2 "|BaumMitAsten16:NeuerBaum" "rotate" " -type \"double3\" 14.41027337296066 -75.552423745916059 -10.71738276109031"
+		2 "|BaumMitAsten16:NeuerBaum" "rotate" " -type \"double3\" 14.4102733729606598 -75.55242374591605881 -10.71738276109030963"
 		
 		2 "|BaumMitAsten16:NeuerBaum" "scale" " -type \"double3\" 1 0.9644933759906078 0.9644933759906078"
 		
@@ -2858,7 +2856,7 @@ createNode reference -n "BaumMitAsten2RN5";
 		"BaumMitAsten2RN5"
 		"BaumMitAsten2RN5" 0
 		"BaumMitAsten2RN5" 115
-		2 "|BaumMitAsten17:NeuerBaum" "translate" " -type \"double3\" -12.929744671940128 0 -46.472618041196363"
+		2 "|BaumMitAsten17:NeuerBaum" "translate" " -type \"double3\" -12.92974467194012789 0 -46.47261804119636253"
 		
 		2 "|BaumMitAsten17:NeuerBaum|BaumMitAsten17:Baumstamm" "scale" " -type \"double3\" 0.48250674087569356 1 0.35776040987406632"
 		
@@ -3183,7 +3181,7 @@ createNode reference -n "BaumMitAsten2RN6";
 		"BaumMitAsten2RN6"
 		"BaumMitAsten2RN6" 0
 		"BaumMitAsten2RN6" 95
-		2 "|BaumMitAsten18:NeuerBaum" "translate" " -type \"double3\" -13.618264352632458 1.1378591179006046 -52.048675335786029"
+		2 "|BaumMitAsten18:NeuerBaum" "translate" " -type \"double3\" -13.61826435263245827 1.13785911790060457 -52.04867533578602945"
 		
 		2 "|BaumMitAsten18:NeuerBaum|BaumMitAsten18:Baumstamm" "scale" " -type \"double3\" 0.48250674087569356 1 0.35776040987406632"
 		
@@ -3498,9 +3496,9 @@ createNode reference -n "BaumMitAsten2RN7";
 		"BaumMitAsten2RN7"
 		"BaumMitAsten2RN7" 0
 		"BaumMitAsten2RN7" 126
-		2 "|BaumMitAsten19:NeuerBaum" "translate" " -type \"double3\" -11.405820381772472 0 -50.453261441985255"
+		2 "|BaumMitAsten19:NeuerBaum" "translate" " -type \"double3\" -11.40582038177247171 0 -50.45326144198525498"
 		
-		2 "|BaumMitAsten19:NeuerBaum" "scale" " -type \"double3\" 0.70506786779730102 1.0346961908923547 0.70506786779730102"
+		2 "|BaumMitAsten19:NeuerBaum" "scale" " -type \"double3\" 0.70506786779730102 1.03469619089235465 0.70506786779730102"
 		
 		2 "|BaumMitAsten19:NeuerBaum|BaumMitAsten19:Baumstamm" "scale" " -type \"double3\" 0.48250674087569356 1 0.35776040987406632"
 		
@@ -3754,7 +3752,7 @@ createNode reference -n "BaumMitAsten2RN8";
 		"BaumMitAsten2RN8"
 		"BaumMitAsten2RN8" 0
 		"BaumMitAsten2RN8" 6
-		2 "|BaumMitAsten20:NeuerBaum" "translate" " -type \"double3\" -11.532553838367452 0 -30.00312546378613"
+		2 "|BaumMitAsten20:NeuerBaum" "translate" " -type \"double3\" -11.53255383836745196 0 -30.00312546378613021"
 		
 		2 "|BaumMitAsten20:NeuerBaum" "scale" " -type \"double3\" 1 0.85685703741477837 0.85685703741477837"
 		
@@ -3881,9 +3879,9 @@ createNode reference -n "BaumMitAsten2RN9";
 		"BaumMitAsten2RN9"
 		"BaumMitAsten2RN9" 0
 		"BaumMitAsten2RN9" 117
-		2 "|BaumMitAsten21:NeuerBaum" "translate" " -type \"double3\" -10.945604613558935 0 -52.173192088763749"
+		2 "|BaumMitAsten21:NeuerBaum" "translate" " -type \"double3\" -10.94560461355893466 0 -52.17319208876374859"
 		
-		2 "|BaumMitAsten21:NeuerBaum" "rotate" " -type \"double3\" 0 92.86849219652072 0"
+		2 "|BaumMitAsten21:NeuerBaum" "rotate" " -type \"double3\" 0 92.86849219652071952 0"
 		
 		2 "|BaumMitAsten21:NeuerBaum" "scale" " -type \"double3\" 0.91668366478803043 0.91668366478803043 1"
 		
@@ -4143,15 +4141,15 @@ createNode animCurveTL -n "pCylinder1_translateY";
 createNode animCurveTL -n "pCylinder1_translateZ";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr -s 31 ".ktv[0:30]"  1 -1.4210854715202004e-014 2 -1.4210854715202004e-014
-		 3 -1.0896526536682179e-014 4 -1.0896526536682179e-014 5 -1.0896526536682179e-014
-		 6 -6.2847604372738006 7 -6.2847604372737971 8 -13.440962263198433 9 -13.440962263198433
-		 10 -21.089659201673772 11 -21.089659201673772 12 -21.089659201673772 13 -23.922603156662685
-		 14 -23.922603156662685 15 -23.922603156662685 16 -23.922603156662685 17 -23.922603156662685
-		 18 -23.922603156662685 19 -23.922603156662685 20 -23.922603156662685 21 -23.922603156662685
-		 22 -23.922603156662685 23 -23.922603156662685 24 -23.922603156662685 25 -23.922603156662685
-		 26 -23.922603156662685 27 -23.922603156662685 28 -23.922603156662685 29 -23.922603156662685
-		 30 -23.922603156662685 31 -23.922603156662685;
+	setAttr -s 31 ".ktv[0:30]"  1 -1.4210854715202004e-14 2 -1.4210854715202004e-14
+		 3 -1.0896526536682179e-14 4 -1.0896526536682179e-14 5 -1.0896526536682179e-14 6 -6.2847604372738006
+		 7 -6.2847604372737971 8 -13.440962263198433 9 -13.440962263198433 10 -21.089659201673772
+		 11 -21.089659201673772 12 -21.089659201673772 13 -23.922603156662685 14 -23.922603156662685
+		 15 -23.922603156662685 16 -23.922603156662685 17 -23.922603156662685 18 -23.922603156662685
+		 19 -23.922603156662685 20 -23.922603156662685 21 -23.922603156662685 22 -23.922603156662685
+		 23 -23.922603156662685 24 -23.922603156662685 25 -23.922603156662685 26 -23.922603156662685
+		 27 -23.922603156662685 28 -23.922603156662685 29 -23.922603156662685 30 -23.922603156662685
+		 31 -23.922603156662685;
 createNode animCurveTU -n "pCylinder1_visibility";
 	setAttr ".tan" 9;
 	setAttr ".wgt" no;
@@ -6906,12 +6904,9 @@ select -ne :initialShadingGroup;
 select -ne :initialParticleSE;
 	setAttr ".ro" yes;
 select -ne :defaultRenderGlobals;
-	setAttr ".ren" -type "string" "mentalRay";
-	setAttr ".outf" 8;
-	setAttr ".imfkey" -type "string" "jpg";
+	setAttr ".outf" 32;
 	setAttr ".an" yes;
-	setAttr ".fs" 28;
-	setAttr ".ef" 28;
+	setAttr ".ef" 1;
 	setAttr ".pff" yes;
 	setAttr ".peie" 2;
 select -ne :defaultRenderQuality;
@@ -6921,10 +6916,10 @@ select -ne :defaultRenderQuality;
 	setAttr ".mss" 1;
 	setAttr ".ert" yes;
 select -ne :defaultResolution;
-	setAttr ".w" 1920;
-	setAttr ".h" 1080;
-	setAttr ".pa" 1;
-	setAttr ".dar" 1.7777777910232544;
+	setAttr ".w" 1900;
+	setAttr ".h" 1024;
+	setAttr ".pa" 1.0664000511169434;
+	setAttr ".dar" 1.9786720275878906;
 select -ne :defaultLightSet;
 	setAttr -s 3 ".dsm";
 select -ne :hardwareRenderGlobals;
@@ -8328,6 +8323,6 @@ connectAttr "mentalrayIbl1.iog" ":defaultLightSet.dsm" -na;
 connectAttr "ambientLight1.iog" ":defaultLightSet.dsm" -na;
 connectAttr "sunDirection.iog" ":defaultLightSet.dsm" -na;
 dataStructure -fmt "raw" -as "name=externalContentTable:string=node:string=key:string=upath:uint32=upathcrc:string=rpath:string=roles";
-applyMetadata -fmt "raw" -v "channel\nname externalContentTable\nstream\nname v1.0\nindexType numeric\nstructure externalContentTable\n0\n\"BaumMitAstenRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" 3975171435 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n1\n\"BaumMitAstenRN1\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" 3975171435 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n2\n\"BaumMitAstenRN2\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n3\n\"BaumMitAstenRN3\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n4\n\"BaumMitAstenRN4\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n5\n\"BaumMitAstenRN5\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n6\n\"BaumMitAstenRN6\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n7\n\"BaumMitAstenRN7\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n8\n\"BaumMitAstenRN8\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n9\n\"BaumMitAstenRN9\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n10\n\"BaumMitAstenRN10\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n11\n\"BaumMitAstenRN11\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten.ma\" \"FileRef\"\n12\n\"topfRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/topf.mb\" 3934834943 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/topf.mb\" \"FileRef\"\n13\n\"AffeRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Affe.ma\" 1405130676 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/Affe.ma\" \"FileRef\"\n14\n\"AffeSRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeS.mb\" 4208811055 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/AffeS.mb\" \"FileRef\"\n15\n\"PlaneRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb\" 1361679360 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/Plane.mb\" \"FileRef\"\n16\n\"AffeLastRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeLast.mb\" 2788847438 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/AffeLast.mb\" \"FileRef\"\n17\n\"PlaneRN1\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb\" 1361679360 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/Plane.mb\" \"FileRef\"\n18\n\"BaumMitAsten2RN\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n19\n\"BaumMitAsten2RN1\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n20\n\"BaumMitAsten2RN2\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n21\n\"BaumMitAsten2RN3\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n22\n\"BaumMitAsten2RN4\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n23\n\"BaumMitAsten2RN5\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n24\n\"BaumMitAsten2RN6\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n25\n\"BaumMitAsten2RN7\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n26\n\"BaumMitAsten2RN8\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n27\n\"BaumMitAsten2RN9\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n28\n\"skydomRN\" \"\" \"C:/Users/fdai3231/Documents/maya/projects/default//01-Models/skydom.mb\" 3364355954 \"C:/Users/fdai3231/Documents/maya/projects/default/01-Models/skydom.mb\" \"FileRef\"\n29\n\"|sunDirection|sunShape\" \"dmapName\" \"depthmap\" 2097411553 \"\" \"sourceImages\"\n30\n\"file1\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga\" 3405264349 \"\" \"sourceImages\"\n31\n\"file2\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/textur_boden_textures_floor10.jpg\" 777002711 \"\" \"sourceImages\"\n32\n\"file3\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/himmelblau2.png\" 3542720696 \"\" \"sourceImages\"\n33\n\"file4\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga\" 3405264349 \"\" \"sourceImages\"\n34\n\"file17\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga\" 3405264349 \"\" \"sourceImages\"\n35\n\"file18\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/02-Textures/klippentextur_512.tga\" 1210790741 \"\" \"sourceImages\"\n36\n\"file19\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/klippentextur_512.tga\" 3405264349 \"\" \"sourceImages\"\n37\n\"file20\" \"fileTextureName\" \"C:/Users/fdai3231/Documents/maya/projects/default/02-Textures/klippentextur_512.tga\" 1065977439 \"C:/Users/fdai3231/Documents/maya/projects/default/02-Textures/klippentextur_512.tga\" \"sourceImages\"\nendStream\nendChannel\nendAssociations\n" 
+applyMetadata -fmt "raw" -v "channel\nname externalContentTable\nstream\nname v1.0\nindexType numeric\nstructure externalContentTable\n0\n\"BaumMitAstenRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" 3975171435 \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" \"FileRef\"\n1\n\"BaumMitAstenRN1\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" 3975171435 \"/Users/meltemozkul/Documents/Studium/3D Animation/HA Sicherung /3d/01-Models/BaumMitAsten.ma\" \"FileRef\"\n2\n\"BaumMitAstenRN2\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n3\n\"BaumMitAstenRN3\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n4\n\"BaumMitAstenRN4\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n5\n\"BaumMitAstenRN5\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n6\n\"BaumMitAstenRN6\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n7\n\"BaumMitAstenRN7\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n8\n\"BaumMitAstenRN8\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n9\n\"BaumMitAstenRN9\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n10\n\"BaumMitAstenRN10\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n11\n\"BaumMitAstenRN11\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/BaumMitAsten.ma\" 3561742294 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten.ma\" \"FileRef\"\n12\n\"topfRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/topf.mb\" 3934834943 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/topf.mb\" \"FileRef\"\n13\n\"AffeSRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeS.mb\" 4208811055 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/AffeS.mb\" \"FileRef\"\n14\n\"PlaneRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb\" 1361679360 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/Plane.mb\" \"FileRef\"\n15\n\"AffeLastRN\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/AffeLast.mb\" 2788847438 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/AffeLast.mb\" \"FileRef\"\n16\n\"PlaneRN1\" \"\" \"/Users/meltemozkul/Documents/Studium/3D Animation/3dma2014/51-MOE-Animation/01-Models/Plane.mb\" 1361679360 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/Plane.mb\" \"FileRef\"\n17\n\"BaumMitAsten2RN\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n18\n\"BaumMitAsten2RN1\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n19\n\"BaumMitAsten2RN2\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n20\n\"BaumMitAsten2RN3\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n21\n\"BaumMitAsten2RN4\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n22\n\"BaumMitAsten2RN5\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n23\n\"BaumMitAsten2RN6\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n24\n\"BaumMitAsten2RN7\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n25\n\"BaumMitAsten2RN8\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n26\n\"BaumMitAsten2RN9\" \"\" \"U:/Documents/Neuer Ordner/01-Models/BaumMitAsten2.mb\" 2206926246 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/BaumMitAsten2.mb\" \"FileRef\"\n27\n\"skydomRN\" \"\" \"C:/Users/fdai3231/Documents/maya/projects/default//01-Models/skydom.mb\" 3364355954 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/01-Models/skydom.mb\" \"FileRef\"\n28\n\"|sunDirection|sunShape\" \"dmapName\" \"depthmap\" 2097411553 \"\" \"sourceImages\"\n29\n\"file1\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\n30\n\"file2\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/textur_boden_textures_floor10.jpg\" 777002711 \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/textur_boden_textures_floor10.jpg\" \"sourceImages\"\n31\n\"file3\" \"fileTextureName\" \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/himmelblau2.png\" 3542720696 \"/Users/meltemozkul/Documents/Studium/3D Animation/Texturen/himmelblau2.png\" \"sourceImages\"\n32\n\"file4\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\n33\n\"file17\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\n34\n\"file18\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\n35\n\"file19\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\n36\n\"file20\" \"fileTextureName\" \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" 1946309378 \"/Users/meltemozkul/Google Drive/51-MOE-3D/Projekt/02-Textures/klippentextur_512.tga\" \"sourceImages\"\nendStream\nendChannel\nendAssociations\n" 
 		-scn;
 // End of NeuLandschaft.ma
